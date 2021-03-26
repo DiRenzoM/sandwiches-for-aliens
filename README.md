@@ -9,7 +9,7 @@ Instructions provided below will assume a dexterity of appendages and fine motor
 
 ## Requirements for construction
 
-- A clean, physical, stable surface with enough flat surface area to contain forthcoming materials. If there is not enough space for everything, items will have to be swapped on and off the surface. The greater and more accessible the surface area, the easier construction will be.
+- A clean, physical, stable surface with enough flat surface area to contain the forthcoming materials. If there is not enough space for everything items will have to be swapped on and off the surface as they become needed. The greater and more accessible the surface area, the easier construction will be.
 - Bread. The form must be voluminous enough to derive two (2) slices with a matching surface area sufficient to occlude approximately 90% of the internal layers upon completion of construction.
 - A slicing instrument capable of splitting the bread into smooth, even slices. If the instrument is too blunt the bread will tear, and this is not desirable for the ideal sandwich construction.
 - Foodstuffs for the internal layers. These can be thinly sliced similarly to the bread, or they can be liquid, or even an abundance of unobtrusive items sprinkled atop or between other internal layers. It all must be edible, and should be layered to the satisfaction of the consuming organism. The only constraint is the amount of risk the consuming organism is willing to take on with respect to the stability of construction.
