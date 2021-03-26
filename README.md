@@ -5,7 +5,7 @@ A deadpan addition to my tech writing portfolio based on the classic PB&J interv
 
 This is a contentious point of debate among humans but for our purposes a sandwich will be defined as follows: An edible layer, or multiple layers, of foodstuffs placed between two edible pieces of bread, atop one and beneath the other. Edible is defined with respect to the consuming organism's digestive system. Do not consume foodstuffs incompatible with your physiology.
 
-Instructions to be provided will assume a dexterity of appendages and fine motor skills comprable to that of humans. Workarounds for non-human physiologies will provided at the conclusion of this guide.
+Instructions to be provided will assume a dexterity of appendages and fine motor skills comparable to that of humans. Workarounds for non-human physiologies will provided at the conclusion of this guide.
 
 ## Requirements for construction
 
