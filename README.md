@@ -1,5 +1,5 @@
 # Sandwiches For Aliens
-A deadpan addition to my tech writing portfolio based on the classic PB&J question, intended to show instructional skills.
+A deadpan addition to my tech writing portfolio based on the classic PB&J interview question, intended to show instructional skills.
 
 ## Defining the sandwich
 
