@@ -7,8 +7,6 @@ A sandwich is type of food consisting of an edible layer, or multiple layers, of
 
 Bread is a food made from flour, water, and a leavening agent like yeast mixed together and baked.
 
-Often a sandwich is eaten without utensils.
-
 ## Requirements for construction
 
 - A clean and stable table, or any surface, with enough flat surface area to contain the forthcoming materials. If there is not enough space for everything then items must be swapped on and off the surface as they become needed. The greater and more accessible the surface area, the easier construction will be.
